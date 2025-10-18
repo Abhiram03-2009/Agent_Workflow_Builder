@@ -13,7 +13,7 @@ Access the application at [http://localhost:3000/](http://localhost:3000/)
 
 #### Using Local Models with Ollama
 
-Run Sim with local AI models using [Ollama](https://ollama.ai) - no external APIs required:
+Run with local AI models using [Ollama](https://ollama.ai) - no external APIs required:
 
 ```bash
 # Start with GPU support (automatically downloads gemma3:4b model)
