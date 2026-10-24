@@ -1,3 +1,5 @@
+> **Attribution:** This repository is a copy of [Sim Studio](https://github.com/simstudioai/sim) by Sim Studio (simstudioai), uploaded for personal study and experimentation. It is not my original work. The original is released under the Apache License 2.0; the license file is included in [LICENSE](LICENSE).
+
 <h1 align="center">
 Agent Workflow Builder
 </h1>
@@ -56,4 +58,4 @@ docker compose -f docker-compose.ollama.yml exec ollama ollama pull llama3.1:8b
 - **Background Jobs**: [Trigger.dev](https://trigger.dev/)
 - **Remote Code Execution**: [E2B](https://www.e2b.dev/)
 
-<h2 align="center">Made by Abhiram Kaakarla </h2>
+<h2 align="center">Copied for study by Abhiram Kaakarla; original by Sim Studio (simstudioai) </h2>
